@@ -41,7 +41,7 @@ new mode 100755
  etc/pbs-enterprise.sources /etc/apt/sources.list.d/
  etc/pbs-network-config-commit.service /usr/lib/systemd/system/
  etc/proxmox-backup-banner.service /usr/lib/systemd/system/
-@@ -9,11 +10,11 @@ etc/removable-device-attach@.service /usr/lib/systemd/system/
+@@ -10,11 +11,11 @@ etc/run-proxmox\x2dbackup.mount /usr/lib/systemd/system/
  usr/bin/pmt
  usr/bin/pmtx
  usr/bin/proxmox-tape
